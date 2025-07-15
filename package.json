@@ -1,5 +1,13 @@
 {
+  "name": "wireframe",
+  "version": "1.0.0",
+  "type": "module",
   "packageManager": "yarn@4.9.2",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "next": "^15.4.1",
     "react": "^19.1.0",
